@@ -1,0 +1,9 @@
+
+•
+java:S1130"áRemove the declaration of thrown exception 'javax.xml.parsers.ParserConfigurationException', as it cannot be thrown from method's body.(≠ΩÀ¿8íü∆èﬁ/
+â
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(≠ΩÀ¿8íü∆èﬁ/
+é
+java:S1130"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(≠ΩÀ¿8ìü∆èﬁ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(∂õÊ‰
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ΩØâ˘8°˜ûèﬁ/
